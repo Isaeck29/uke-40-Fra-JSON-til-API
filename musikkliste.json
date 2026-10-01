@@ -1,11 +1,11 @@
 [
   {
     "artistnavn":"Alan Walker",
-    "fulltnavn": "Alan Olav Walker",
+    "navn": "Alan Olav Walker",
     "kjonn": "Mann",
     "alder": "29 år",
     "fodselsdato": "24. august 1997",
-    "land": "Norge og Storbritannia",
+    "land": ["Norge", "Storbritannia"],
     "musikksjanger": "elektronisk musikk",
     "gjennombrudd": "Gjennombrudd i 2015 med sangen *Faded* "
     
