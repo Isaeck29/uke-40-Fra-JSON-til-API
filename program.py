@@ -6,3 +6,4 @@ with open("musikkliste.json", encoding="utf-8") as fil:
 #print(data[0]["artistnavn"])
 for artist in data:
     print(artist["artistnavn"])
+    print(artist["musikksjanger"])
