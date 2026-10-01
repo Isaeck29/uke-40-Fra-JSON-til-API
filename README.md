@@ -50,3 +50,21 @@
 * Telle antall med vitser som er i listen med vitser
 * Søke etter ord som den får med input fra bruker. 
 #### Deler av koden i Oppgave 5 er skrevet med hjelp av ChatGPT. 
+
+
+# Refleksjon
+
+## Hva er JSON?
+#### JSON er en måte å lagre informasjon på. Man kan blant annet lage lister, slik som jeg har gjort i filen "musikkliste.json".
+
+## Hvordan er JSON bygget opp?
+#### JSON bygges opp av objekter som blir markert med "{ }", lister som blir markert med [] og annen informasjon som består av navn og verdier.
+
+## Hva var lett?
+#### Jeg synes at de første 4 punktene var ganske lette.
+
+## Hva var vanskelig?
+#### Jeg synes at oppgave 5 var vanskelig, når jeg skulle lage en meny. 
+
+## Hva er forskjellen mellom en lokal JSON-fil og et API?
+#### Forskjellen mellom en lokal JSON-fil og et API er at den lokale JSON-fila ligger lagret på min PC, mens med API så ber programmet en annen tjeneste om data. Dette kan f.eks være værmeldingen på YR.no, som API'en henter informasjonen fra via. internett. 
