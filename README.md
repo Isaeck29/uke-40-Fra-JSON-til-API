@@ -13,12 +13,21 @@
 
 * ### Informasjonen til denne listen har jeg fått av ChatGPT, men jeg har skrevet JSON-listen selv. 
 
-* ## Python-Eksempel oppgave 2
+* # Oppgave 2
+
+## Python-eksempel
 1. med <mark> "print(spill[0])"</mark> så printes den første på lista, altså Minecraft. 
 
 2. Når jeg prøvde <mark>"print(spill[2])"</mark> så printet den nummer 3 på lista, som er Fortnite.
 
 3. Når jeg testet <mark>"print(spill[10])"</mark> så fikk jeg feilkoden "list index out of range" fordi det ikke er så mange punkter i listen. 
+
+## Egen liste
+1. Det første elementet i min egen liste er "Minecraft". Om jeg vil printe ut dette kan man bruke ```print(spill[0])```.
+
+2. Det siste elementet i min egen liste er "Counter-Strike". For å printe ut det siste elementet kan man bruke ```print(spill[10])```.
+
+3. Min liste har totalt 11 ulike spill. For å printe ut alle sammen kan man bruke ```print(spill)```.
 
 ## Oppgave 4
 
