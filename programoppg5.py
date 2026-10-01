@@ -5,5 +5,6 @@ with open("vitser.json", encoding="utf-8") as fil:
 
 #print(data["jokes"][0]["joke"]) #printer den første vitsen.
 
-#for vits in data["jokes"]:
-    #print(vits["joke"])     #Printer alle vitsene. 
+for vits in data["jokes"]:
+    print(vits["joke"])     #Printer alle vitsene. 
+print("Antall vitser:", len(data["jokes"]))
