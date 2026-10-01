@@ -40,3 +40,13 @@
 * I den første filen står nummeret på vitsen og selve vitsen rett etter hverandre. I den andre filen virker strukturen mer organisert og ryddig. Her kommer det en liten tekst på toppen om hva filen faktisk inneholder, og alle vitsene ligger i en egen liste som heter ```"jokes".``` Hver vits har også fått sin egen ```"id"```.
 * Begge vitsefilene inneholder akkurat de samme vitsene, men det er også noen forskjeller. I den første filen er strukturen ganske enkel. Der er hver vits direkte koblet til et nummer, f.eks ```"1": "Where do generals keep their armies?  In their sleevies"```. I den andre filen har vitsene blitt lagt i en egen liste (```"jokes"```). Hver vits har blitt gjort til et objekt, som har både ```"id"``` og ```"joke"```. I den andre filen blir det også forklart hva filen inneholder under ```"metadata"```.
 * Toppnivået i begge filene er et objekt. I den første filen er ```"1"```, "```"2"```, ```"3"``` osv. brukt som nummer på de ulike vitsene. I den andre filen har nøklene på toppnivå fått navnene ```"metadata"``` og ```"jokes"```. For å finne en bestemt vits kan man gå inn i listen ```"jokes"``` og finne vitsen ved hjelp av ```"id"```. Hver vits er et eget objekt som har både  ```"id"``` og ```"joke"```.
+
+## Oppgave 5. 
+### Jeg har laget et program som kan vise vitsene fra listen med vitser. 
+#### Denne koden har en meny, og kan:
+* Vise alle vitser fra listen med vitser
+* Vise tilfeldige vitser fra listen med vitser
+* Vise den første vitsen fra listen med vitser
+* Telle antall med vitser som er i listen med vitser
+* Søke etter ord som den får med input fra bruker. 
+#### Deler av koden i Oppgave 5 er skrevet med hjelp av ChatGPT. 
