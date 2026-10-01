@@ -68,3 +68,5 @@
 
 ## Hva er forskjellen mellom en lokal JSON-fil og et API?
 #### Forskjellen mellom en lokal JSON-fil og et API er at den lokale JSON-fila ligger lagret på min PC, mens med API så ber programmet en annen tjeneste om data. Dette kan f.eks være værmeldingen på YR.no, som API'en henter informasjonen fra via. internett. 
+
+## Jeg har valgt å bruke jokes.json i koden min istedet for justJokes.json fordi jeg synes at jokes.json hadde en mer oversiktlig liste. 
