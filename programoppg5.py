@@ -58,4 +58,5 @@ while True:
  
 
  input("Trykk Enter for å gå tilbake til menyen...")  #Går tilbake til menyen om brukeren trykker ned Enter-knappen på tastaturet. 
-# Deler av denne koden har jeg fått hjelp av ChatGPT til å lage. 
+ 
+ # Deler av denne koden har jeg fått hjelp av ChatGPT til å lage. 
