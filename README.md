@@ -66,7 +66,7 @@
 #### Jeg synes at de første 4 punktene var ganske lette.
 
 ## Hva var vanskelig?
-#### Jeg synes at oppgave 5 var vanskelig, når jeg skulle lage en meny.
+#### Jeg synes at oppgave 5 var vanskelig, blant annet når jeg skulle lage en meny.
 
 ## Hva er et API?
 #### Et API (Application Programming Interface) er en måte som programmer kan kommunisere med hverandre på. For eksempel så kan et program be en API om informasjon, også få informasjonen fra APIet. Denne informasjonen kommer ofte i JSON-format. 
