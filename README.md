@@ -49,6 +49,7 @@
 * Vise den første vitsen fra listen med vitser
 * Telle antall med vitser som er i listen med vitser
 * Søke etter ord som den får med input fra bruker. 
+* Senere har jeg og utvidet koden enda litt mer, slik at koden gjentar seg helt til man velger å avslutte den. 
 #### Deler av koden i Oppgave 5 er skrevet med hjelp av ChatGPT. 
 
 
