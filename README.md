@@ -66,7 +66,10 @@
 #### Jeg synes at de første 4 punktene var ganske lette.
 
 ## Hva var vanskelig?
-#### Jeg synes at oppgave 5 var vanskelig, når jeg skulle lage en meny. 
+#### Jeg synes at oppgave 5 var vanskelig, når jeg skulle lage en meny.
+
+## Hva er et API?
+#### Et API (Application Programming Interface) er en måte som programmer kan kommunisere med hverandre på. For eksempel så kan et program be en API om informasjon, også få informasjonen fra APIet. Denne informasjonen kommer ofte i JSON-format. 
 
 ## Hva er forskjellen mellom en lokal JSON-fil og et API?
 #### Forskjellen mellom en lokal JSON-fil og et API er at den lokale JSON-fila ligger lagret på min PC, mens med API så ber programmet en annen tjeneste om data. Dette kan f.eks være værmeldingen på YR.no, som API'en henter informasjonen fra via. internett. 
