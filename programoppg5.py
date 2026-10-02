@@ -43,7 +43,9 @@ while True:
      print(tilfeldig_vits["joke"])  # Printer en tilfeldig vits.
 
  elif valg == "6":
-    print("Programmet avsluttes.")  
+    print("Programmet avsluttes.")
     break                           #Avslutter programmet med funksjonen break.
+
+ input("Trykk Enter for å gå tilbake til menyen...")  #Går tilbake til menyen om brukeren trykker på Enter. 
 
 # Deler av denne koden har jeg fått hjelp av ChatGPT til å lage. 

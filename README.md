@@ -50,6 +50,7 @@
 * Telle antall med vitser som er i listen med vitser
 * Søke etter ord som den får med input fra bruker. 
 * Senere har jeg og utvidet koden enda litt mer, slik at koden gjentar seg helt til man velger å avslutte den. 
+#### Brukeren blir også bedt om å trykke på Enter for å gå tilbake til menyen. Dette har jeg lagt inn fordi jeg synes at det var litt vanskelig å se hva programmet faktisk skriver ut etter at jeg la til at programmet gjentar listen med spørsmål helt til det blir avsluttet. 
 #### Deler av koden i Oppgave 5 er skrevet med hjelp av ChatGPT. 
 
 
